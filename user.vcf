@@ -7,7 +7,7 @@ ORG:Instawork;
 TITLE:Enterprise Account Executive
 EMAIL;type=INTERNET;type=WORK;type=pref:ddietsch@instawork.com
 TEL;type=WORK;type=VOICE:512 859 7408
-item1.ADR;type=WORK;type=pref:;;39 Stillman Street San Francisco;;;94107;
+item1.ADR;type=WORK;type=pref:;;39 Stillman Street San Francisco;;;94107;CA
 item1.X-ABADR:sg
 item2.URL;type=pref:instawork.com.sg
 item2.X-ABLabel:_$!<HomePage>!$_
